@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-05-04T03:44:42.087802858Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-05-04T03:46:01.845125922Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "85818ec9-aabf-48d7-bd9a-42a1762aa5ba",
     "homepageId": "743f26b1-94c7-495c-a4dc-e10b1ec3090f"
@@ -963,7 +963,32 @@
               },
               "essence": {
                 "title": "거제 이리온 애견펜션",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "208f57b7-2139-40bb-b9ac-a02d7f1fd441",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/743f26b1-94c7-495c-a4dc-e10b1ec3090f/index_essence/1777866335093-7gy8lhvazn.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "33715a04-746f-42b5-a2e5-7738f9903a9a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/743f26b1-94c7-495c-a4dc-e10b1ec3090f/index_essence/1777866335096-5emtaxsmdw.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "77dd345b-6585-402c-a54d-bf14d8fff612",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/743f26b1-94c7-495c-a4dc-e10b1ec3090f/index_essence/1777866335069-codtpkjpdw.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": "거제 바다가 펼쳐지는 애견펜션\n사랑하는 반려견과 함께 편안하게 즐기는 힐링 여행\n자연과 바다, 그리고 반려견과의 \n특별한 추억을 이리온에서 만나보세요"
