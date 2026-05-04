@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-05-04T02:55:09.692073033Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-05-04T03:44:42.087802858Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "85818ec9-aabf-48d7-bd9a-42a1762aa5ba",
     "homepageId": "743f26b1-94c7-495c-a4dc-e10b1ec3090f"
@@ -74,7 +74,40 @@
         "description": " ",
         "usageGuide": "- 이용금액 : 20,000원 (1박기준/현장결제)\n- 제공품목 : 숯+그릴+바베큐통+장갑+집게+가위\n- 준비시간 : 입실시 ~ 23시\n- 이용시간 : 입실시 ~ 23시\n※ 숯 , 그릴, 버너 개인지참 불가\n※ 시간 관계없이 직접 토치 사용하여 이용",
         "displayOrder": 170,
-        "images": [ ]
+        "images": [
+          {
+            "id": "0465b1a4-33cd-411d-869a-a3dc97da37f9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/05fc8ff3-e64e-4610-93cf-a2fecf86fbee/main/1777863468905-sctiz6f6is.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4c5ed8ed-c504-40f8-9009-e9ed7a1c908e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/05fc8ff3-e64e-4610-93cf-a2fecf86fbee/main/1777863468892-kh7ks67yr2.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4e032c4a-38e3-4f45-8d8b-4a04667a7c6e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/05fc8ff3-e64e-4610-93cf-a2fecf86fbee/main/1777863468902-njkgnx2yx0.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "9f6316ab-0d14-49f9-8f56-c42d1d0745d1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/05fc8ff3-e64e-4610-93cf-a2fecf86fbee/main/1777863468697-qs73bdeq8z.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "c87686dd-203f-4c68-b2e3-6001a7df1d19",
@@ -82,7 +115,48 @@
         "description": " ",
         "usageGuide": "- 운영기간 : 추후안내예정\n- 이용시간 : 입실시 ~ 21시 (연박시에만 오전 10시부터 가능)\n- 이용복장 : 면티 착용 가능\n\n※ 수영장 이용수칙\n- 수영 전 준비운동을 충분히 하고 이용해 주시기 바랍니다.\n- 다이빙은 절대 금지합니다. (※이용객의 부주의로 인한 사고에 대해서는 책임지지 않습니다.)\n- 유아 및 어린이는 반드시 보호자 동행 요망(유아와 어린이는 구명조끼를 반드시 착용해 주세요.)\n- 주변 바닥이 미끄러울 수 있으니 주의가 필요하며 유아 및 어린이 단독 출입을 제한합니다.\n- 물놀이는 응급사고의 위험이 있으므로, 수영장은 혼자 이용할 수 없습니다.\n- 수영장 내 음식물 반입 및 음주, 담배를 절대 금합니다.",
         "displayOrder": 171,
-        "images": [ ]
+        "images": [
+          {
+            "id": "25970f0d-05d3-4b44-8f22-4672910bf63e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c87686dd-203f-4c68-b2e3-6001a7df1d19/main/1777863469700-49ayr1zwd8.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "a32f30a9-5a08-4d3e-a869-c793ea7376e4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c87686dd-203f-4c68-b2e3-6001a7df1d19/main/1777863469769-1n9hb6itot.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "705f0e8a-787a-4e0f-9da6-f0354d89a3d6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c87686dd-203f-4c68-b2e3-6001a7df1d19/main/1777863469792-vflyv2neeh.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c776fb58-214a-4ac6-bd08-66d46967fea2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c87686dd-203f-4c68-b2e3-6001a7df1d19/main/1777863469852-tomv61dukh.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "68fb2796-8168-4bd1-80ac-653d05c00a28",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c87686dd-203f-4c68-b2e3-6001a7df1d19/main/1777863469865-t23x3g4e34.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "668eb7c7-46a3-4df8-a7d4-81490548cbe5",
@@ -90,23 +164,130 @@
         "description": " ",
         "usageGuide": "- 반려견이 자유롭게 뛰어놀 수 있는 인조잔디\n",
         "displayOrder": 172,
-        "images": [ ]
+        "images": [
+          {
+            "id": "828fcfe0-dece-4cee-99dd-d342ccd4412f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/668eb7c7-46a3-4df8-a7d4-81490548cbe5/main/1777863470993-tuu5w319bc.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2c618472-d0f0-4914-b819-781f83edeac9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/668eb7c7-46a3-4df8-a7d4-81490548cbe5/main/1777863470975-14c429j0bf.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ced3c364-a17c-4f6e-ba10-26328fd632e5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/668eb7c7-46a3-4df8-a7d4-81490548cbe5/main/1777863471276-qgktpnc957.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "4fc34185-feea-4e10-bae5-0d11a553fe23",
         "name": "족구장",
         "description": " - 족구장 보유",
-        "usageGuide": "",
+        "usageGuide": " ",
         "displayOrder": 173,
-        "images": [ ]
+        "images": [
+          {
+            "id": "4ba2ebf6-c48e-4feb-8798-c6f726535905",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4fc34185-feea-4e10-bae5-0d11a553fe23/main/1777863471849-cakf3v8z4y.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "da6de019-8938-4eef-ba69-bc581084d601",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4fc34185-feea-4e10-bae5-0d11a553fe23/main/1777863471917-g5s4ch4xkh.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "849956d5-f357-4dcc-b951-2654c29a419d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4fc34185-feea-4e10-bae5-0d11a553fe23/main/1777863471946-giqvu9w06n.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "562c1d69-0d15-4c59-ab79-93071584152b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4fc34185-feea-4e10-bae5-0d11a553fe23/main/1777863471883-7jetru91qe.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "829b567c-95e1-4781-b7b5-b8bfb27a6d7b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4fc34185-feea-4e10-bae5-0d11a553fe23/main/1777863471869-6356w05bqg.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "c7de1527-e08e-4507-95b4-25df7e907806",
         "name": "전 객실 애견동반가능",
         "description": " - 최대마리수 : 603,604 2마리 / 601, 605, 606, 607 3마리\n- 최대 kg수 : ~15kg 미만\n- 요금 : 1마리당 20,000원(1박기준/현장결제)\n※ 최대마리수 초과시 사전문의필수",
-        "usageGuide": "",
+        "usageGuide": " ",
         "displayOrder": 174,
-        "images": [ ]
+        "images": [
+          {
+            "id": "da8f136d-9b85-4511-88f0-034b9908c239",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7de1527-e08e-4507-95b4-25df7e907806/main/1777863472829-yiphcqfa2j.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0ed4f02e-2512-4c38-bb20-86a78d2cd159",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7de1527-e08e-4507-95b4-25df7e907806/main/1777863472982-9ow2qxfmt2.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "86e06908-bba1-4bbf-8445-ed4f490222c3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7de1527-e08e-4507-95b4-25df7e907806/main/1777863472894-fw2x4yo68u.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "f9357bcf-baed-495e-9aba-df06d71cfaf7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7de1527-e08e-4507-95b4-25df7e907806/main/1777863472978-uq6it04jgo.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c6b84a62-2dc2-4ae1-963c-ab1dcf389d17",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7de1527-e08e-4507-95b4-25df7e907806/main/1777863472982-0tfkpo8x9e.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -151,11 +332,129 @@
         "refundRate": 0
       }
     ],
-    "refundSettings": null,
+    "refundSettings": {
+      "customerRefundNotice": "",
+      "immediateRefundEnabled": false,
+      "immediateRefundTimeLimit": "60"
+    },
     "images": [
       {
-        "thumbnail": [ ],
-        "exterior": [ ],
+        "thumbnail": [
+          {
+            "id": "3ad12475-1fd0-459e-93c2-4a550280a74c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/85818ec9-aabf-48d7-bd9a-42a1762aa5ba/thumbnail/1777863516095-pt6qovkcyk.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "4e7f2040-600c-42e3-8196-19c23a1cc47d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/85818ec9-aabf-48d7-bd9a-42a1762aa5ba/exterior/1777863516091-nh0my38543.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ff7cac32-5624-4823-9669-9d8ea06858c0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/85818ec9-aabf-48d7-bd9a-42a1762aa5ba/exterior/1777863516155-0v7pqdnfih.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ce779f0b-5f67-4c84-b9c8-0a0b1234f218",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/85818ec9-aabf-48d7-bd9a-42a1762aa5ba/exterior/1777863516173-xj297vnv81.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "11779f0a-499f-4f1e-973d-f9ebac49d339",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/85818ec9-aabf-48d7-bd9a-42a1762aa5ba/exterior/1777863516373-zafs18bngq.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "63e1071c-0f5b-4948-a698-efdb3f829050",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/85818ec9-aabf-48d7-bd9a-42a1762aa5ba/exterior/1777863516357-2oa70kejtu.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "5d39f437-1763-4bb1-9289-ca02638fe852",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/85818ec9-aabf-48d7-bd9a-42a1762aa5ba/exterior/1777863516263-jwmb0eoor1.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "86c3002f-4d21-4269-890b-19c22908303b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/85818ec9-aabf-48d7-bd9a-42a1762aa5ba/exterior/1777863516366-5sukb7lb28.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "26f51fdb-facb-46ae-9b67-44ae61f80cf8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/85818ec9-aabf-48d7-bd9a-42a1762aa5ba/exterior/1777863516096-kc8innypmc.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "20d10527-172f-4d28-839d-87bd96ca7f13",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/85818ec9-aabf-48d7-bd9a-42a1762aa5ba/exterior/1777863516254-i5uan4juz2.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "7b916498-16be-4f5d-a758-ee30b1dd7f7e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/85818ec9-aabf-48d7-bd9a-42a1762aa5ba/exterior/1777863516191-uhs8gzkvrf.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "3e66b84d-40d5-48d7-a264-84d5232481c3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/85818ec9-aabf-48d7-bd9a-42a1762aa5ba/exterior/1777863516182-e19btnmfnv.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "80466e9b-261a-4b65-a43b-9d22fdc9fd20",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/85818ec9-aabf-48d7-bd9a-42a1762aa5ba/exterior/1777863516323-ofkrqizwvi.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0854c3fa-c1e3-4bea-9c21-b451fc22581a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/85818ec9-aabf-48d7-bd9a-42a1762aa5ba/exterior/1777863516362-g8flma10zm.jpg",
+            "sortOrder": 12,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
         "surrounding": [ ],
         "commonArea": [ ]
       }
@@ -752,10 +1051,51 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": [ ]
+                "title": " ",
+                "images": [
+                  {
+                    "id": "cb10dcfb-89b3-4e80-b395-e01817f30a66",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/743f26b1-94c7-495c-a4dc-e10b1ec3090f/main_hero/1777863639243-y89btud5mq.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "description": " "
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "e0e186bb-74b1-4164-a383-ee97078f3cb6",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/743f26b1-94c7-495c-a4dc-e10b1ec3090f/main_about/1777866276547-8mmoyp5p8w.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "78c3d8a3-c02d-4eaf-9fde-1b51ad6386d1"
+                    }
+                  ],
+                  "blockId": "78c3d8a3-c02d-4eaf-9fde-1b51ad6386d1",
+                  "description": "거제 바다와 가까운 위치에서 \n여유로운 바다 감성을 만끽할 수 있는 공간\n산책하듯 바다를 즐기며 \n힐링할 수 있는 최적의 입지\n파도 소리를 가까이에서 느끼며 \n편안한 휴식을 경험하세요"
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "cdc8f60e-f7c2-4249-baf6-a89500420cd6",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/743f26b1-94c7-495c-a4dc-e10b1ec3090f/main_about/1777866276475-4pi4j1pk52.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "3391de41-fafe-4ff0-a0b2-df3c1686deaa"
+                    }
+                  ],
+                  "blockId": "3391de41-fafe-4ff0-a0b2-df3c1686deaa",
+                  "description": "반려견과 함께 편하게  \n머무를 수 있는 애견동반 펜션\n마음껏 뛰어놀 수 있는 \n전용 애견운동장 완비\n자연 속에서 반려견과 \n함께하는 특별한 힐링 공간"
+                }
+              ]
             }
           ]
         },
