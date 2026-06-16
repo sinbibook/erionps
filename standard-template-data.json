@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-05-20T01:16:07.049022305Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-06-16T08:04:45.414857498Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "85818ec9-aabf-48d7-bd9a-42a1762aa5ba",
     "homepageId": "743f26b1-94c7-495c-a4dc-e10b1ec3090f"
@@ -73,7 +73,7 @@
         "name": "전 객실 개별바베큐",
         "description": " ",
         "usageGuide": "- 이용금액 : 20,000원 (1박기준/현장결제)\n- 제공품목 : 숯+그릴+바베큐통+장갑+집게+가위\n- 준비시간 : 입실시 ~ 23시\n- 이용시간 : 입실시 ~ 23시\n※ 숯 , 그릴, 버너 개인지참 불가\n※ 시간 관계없이 직접 토치 사용하여 이용",
-        "displayOrder": 170,
+        "displayOrder": 0,
         "images": [
           {
             "id": "0465b1a4-33cd-411d-869a-a3dc97da37f9",
@@ -114,12 +114,28 @@
         "name": "야외 공용수영장",
         "description": " ",
         "usageGuide": "- 운영기간 : 추후안내예정\n- 이용시간 : 입실시 ~ 21시 (연박시에만 오전 10시부터 가능)\n- 이용복장 : 면티 착용 가능\n\n※ 수영장 이용수칙\n- 수영 전 준비운동을 충분히 하고 이용해 주시기 바랍니다.\n- 다이빙은 절대 금지합니다. (※이용객의 부주의로 인한 사고에 대해서는 책임지지 않습니다.)\n- 유아 및 어린이는 반드시 보호자 동행 요망(유아와 어린이는 구명조끼를 반드시 착용해 주세요.)\n- 주변 바닥이 미끄러울 수 있으니 주의가 필요하며 유아 및 어린이 단독 출입을 제한합니다.\n- 물놀이는 응급사고의 위험이 있으므로, 수영장은 혼자 이용할 수 없습니다.\n- 수영장 내 음식물 반입 및 음주, 담배를 절대 금합니다.",
-        "displayOrder": 171,
+        "displayOrder": 1,
         "images": [
+          {
+            "id": "260da8a5-d737-4dc6-be05-9cd06ebf343a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c87686dd-203f-4c68-b2e3-6001a7df1d19/main/1781596979556-wcz2ep8nl2.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0d453e7f-0c89-40fe-b5c2-2f4746e08cb3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c87686dd-203f-4c68-b2e3-6001a7df1d19/main/1781596979590-oe6c9jdomb.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
           {
             "id": "25970f0d-05d3-4b44-8f22-4672910bf63e",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c87686dd-203f-4c68-b2e3-6001a7df1d19/main/1777863469700-49ayr1zwd8.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -127,7 +143,7 @@
           {
             "id": "a32f30a9-5a08-4d3e-a869-c793ea7376e4",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c87686dd-203f-4c68-b2e3-6001a7df1d19/main/1777863469769-1n9hb6itot.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -135,7 +151,7 @@
           {
             "id": "705f0e8a-787a-4e0f-9da6-f0354d89a3d6",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c87686dd-203f-4c68-b2e3-6001a7df1d19/main/1777863469792-vflyv2neeh.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -143,7 +159,7 @@
           {
             "id": "c776fb58-214a-4ac6-bd08-66d46967fea2",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c87686dd-203f-4c68-b2e3-6001a7df1d19/main/1777863469852-tomv61dukh.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -151,7 +167,7 @@
           {
             "id": "68fb2796-8168-4bd1-80ac-653d05c00a28",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c87686dd-203f-4c68-b2e3-6001a7df1d19/main/1777863469865-t23x3g4e34.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -159,32 +175,24 @@
         ]
       },
       {
-        "id": "668eb7c7-46a3-4df8-a7d4-81490548cbe5",
-        "name": "애견운동장",
-        "description": " ",
-        "usageGuide": "- 반려견이 자유롭게 뛰어놀 수 있는 인조잔디\n",
-        "displayOrder": 172,
+        "id": "a53f2f81-26e4-4c43-ae1c-c3569b40c4e1",
+        "name": "애견수영장",
+        "description": "사랑하는 반려견과 함께 물놀이를 즐기는 공간입니다.",
+        "usageGuide": "  ",
+        "displayOrder": 2,
         "images": [
           {
-            "id": "828fcfe0-dece-4cee-99dd-d342ccd4412f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/668eb7c7-46a3-4df8-a7d4-81490548cbe5/main/1777863470993-tuu5w319bc.jpg",
+            "id": "eebfb10c-b7a2-4dc0-8a0e-e253d94b7708",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a53f2f81-26e4-4c43-ae1c-c3569b40c4e1/main/1781596980180-mqr18k5ii3.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "2c618472-d0f0-4914-b819-781f83edeac9",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/668eb7c7-46a3-4df8-a7d4-81490548cbe5/main/1777863470975-14c429j0bf.jpg",
+            "id": "a2288bbd-1103-4595-9c6b-7bd46e1ebedd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a53f2f81-26e4-4c43-ae1c-c3569b40c4e1/main/1781596980157-cxhsiaeesr.jpg",
             "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "ced3c364-a17c-4f6e-ba10-26328fd632e5",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/668eb7c7-46a3-4df8-a7d4-81490548cbe5/main/1777863471276-qgktpnc957.jpg",
-            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -194,9 +202,9 @@
       {
         "id": "4fc34185-feea-4e10-bae5-0d11a553fe23",
         "name": "족구장",
-        "description": " - 족구장 보유",
+        "description": "- 족구장 보유",
         "usageGuide": " ",
-        "displayOrder": 173,
+        "displayOrder": 3,
         "images": [
           {
             "id": "4ba2ebf6-c48e-4feb-8798-c6f726535905",
@@ -243,9 +251,9 @@
       {
         "id": "c7de1527-e08e-4507-95b4-25df7e907806",
         "name": "전 객실 애견동반가능",
-        "description": " - 최대마리수 : 603,604 2마리 / 601, 605, 606, 607 3마리\n- 최대 kg수 : ~15kg 미만\n- 요금 : 1마리 무료입실 / 추가 1마리당 20,000원(1박기준/현장결제)\n※ 최대마리수 초과시 사전문의필수",
+        "description": "- 최대마리수 : 603,604 2마리 / 601, 605, 606, 607 3마리\n- 최대 kg수 : ~15kg 미만\n- 요금 : 1마리 무료입실 / 추가 1마리당 20,000원(1박기준/현장결제)\n※ 최대마리수 초과시 사전문의필수",
         "usageGuide": " ",
-        "displayOrder": 174,
+        "displayOrder": 4,
         "images": [
           {
             "id": "da8f136d-9b85-4511-88f0-034b9908c239",
@@ -283,6 +291,39 @@
             "id": "c6b84a62-2dc2-4ae1-963c-ab1dcf389d17",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c7de1527-e08e-4507-95b4-25df7e907806/main/1777863472982-0tfkpo8x9e.jpg",
             "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "668eb7c7-46a3-4df8-a7d4-81490548cbe5",
+        "name": "애견운동장",
+        "description": " ",
+        "usageGuide": "- 반려견이 자유롭게 뛰어놀 수 있는 인조잔디\n",
+        "displayOrder": 5,
+        "images": [
+          {
+            "id": "828fcfe0-dece-4cee-99dd-d342ccd4412f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/668eb7c7-46a3-4df8-a7d4-81490548cbe5/main/1777863470993-tuu5w319bc.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2c618472-d0f0-4914-b819-781f83edeac9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/668eb7c7-46a3-4df8-a7d4-81490548cbe5/main/1777863470975-14c429j0bf.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ced3c364-a17c-4f6e-ba10-26328fd632e5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/668eb7c7-46a3-4df8-a7d4-81490548cbe5/main/1777863471276-qgktpnc957.jpg",
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -335,7 +376,9 @@
     "refundSettings": {
       "customerRefundNotice": "",
       "immediateRefundEnabled": false,
-      "immediateRefundTimeLimit": "60"
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "60",
+      "sameDayReservationHourLimit": null
     },
     "images": [
       {
@@ -1164,6 +1207,12 @@
               }
             }
           ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "popup": {
