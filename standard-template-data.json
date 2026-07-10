@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.29.0",
-    "generatedAt": "2026-07-03T00:42:28.228739339Z",
+    "version": "1.30.0",
+    "generatedAt": "2026-07-10T08:13:13.702570861Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "85818ec9-aabf-48d7-bd9a-42a1762aa5ba",
     "homepageId": "743f26b1-94c7-495c-a4dc-e10b1ec3090f"
@@ -20,7 +20,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
-    "usageGuide": "[공지사항]\n[펜션 이용 안내 사항]\n- 전 객실 절대 금연입니다.\n- 미성년자는 보호자 동반 없이 이용하실 수 없습니다.\n- 다른 이용객에게 피해를 줄 수 있는 무분별한 오락, 음주, 고성방가는 삼가주시기 바랍니다.\n- 객실 및 주변 시설 이용 시 시설물의 훼손, 분실에 대한 책임은 투숙객에게 있으며, 손해배상의 책임을 질 수 있습니다.\n- 음식물 및 기타 쓰레기는 꼭 분리수거해 주시기 바랍니다.\n- 실내에서 고기, 생선 등 냄새가 심한 음식은 조리를 금지합니다.\n- 애견 운동장에서 바비큐 시 불꽃놀이 불멍은 금지입니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 60개월 이상~8세 미만\n- 유아: 60개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 만 5세이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n\n[개별바베큐]\n[전 객실 개별바베큐]\n- 이용금액 : 20,000원 (1박기준/현장결제)\n- 제공품목 : 숯+그릴+바베큐통+장갑+집게+가위\n- 준비시간 : 입실시 ~ 23시\n- 운영시간 : 입실시 ~ 23시\n※ 숯 , 그릴, 버너 개인지참 불가\n※ 시간 관계없이 직접 토치 사용하여 이용\n\n[공용수영장]\n[야외 공용수영장]\n- 운영기간 : 6월25일~9월13일\n- 운영시간 : 10:00~18:00 (연박시에만 오전 10시부터 가능)\n- 이용복장 : 면티 착용 가능\n※ 일반 수영장, 애견수영장 2개 운영\n※ 일반 수영장에 반려견 입수 불가\n\n※ 수영장 이용수칙\n- 수영 전 준비운동을 충분히 하고 이용해 주시기 바랍니다.\n- 다이빙은 절대 금지합니다. (※이용객의 부주의로 인한 사고에 대해서는 책임지지 않습니다.)\n- 유아 및 어린이는 반드시 보호자 동행 요망(유아와 어린이는 구명조끼를 반드시 착용해 주세요.)\n- 주변 바닥이 미끄러울 수 있으니 주의가 필요하며 유아 및 어린이 단독 출입을 제한합니다.\n- 물놀이는 응급사고의 위험이 있으므로, 수영장은 혼자 이용할 수 없습니다.\n- 수영장 내 음식물 반입 및 음주, 담배를 절대 금합니다.\n\n[애견동반]\n[전 객실 애견동반가능]\n- 최대마리수 : 603,604 2마리 / 601, 605, 606, 607 3마리\n- 최대 kg수 : ~15kg 미만\n- 요금 : 1마리 무료입실 / 추가 1마리당 20,000원(1박기준/현장결제)\n※ 최대마리수 초과시 사전문의필수\n\n[부대시설]\n[애견운동장]\n- 반려견이 자유롭게 뛰어놀 수 있는 인조잔디\n\n[족구장]\n- 족구장 보유\n\n[편의 및 주변 시설]\n[편의시설]\n- 전 객실 Wi-Fi 이용 가능\n- 펜션 내 주차공간\n\n[주변관광지]\n- 매미성\n- 거제관광모노레일\n- 유호리전망대\n- 거제저도유람선\n- 몽돌해변\n\n[교통편]\n입실 전 거제북로 2738-2 도로변에 주차하시고.\n왼쪽 첫번째 핑스 안내실로 찾아오세요",
+    "usageGuide": "[펜션 이용 안내 사항]\n- 전 객실 절대 금연입니다.\n- 미성년자는 보호자 동반 없이 이용하실 수 없습니다.\n- 다른 이용객에게 피해를 줄 수 있는 무분별한 오락, 음주, 고성방가는 삼가주시기 바랍니다.\n- 객실 및 주변 시설 이용 시 시설물의 훼손, 분실에 대한 책임은 투숙객에게 있으며, 손해배상의 책임을 질 수 있습니다.\n- 음식물 및 기타 쓰레기는 꼭 분리수거해 주시기 바랍니다.\n- 실내에서 고기, 생선 등 냄새가 심한 음식은 조리를 금지합니다.\n- 애견 운동장에서 바비큐 시 불꽃놀이 불멍은 금지입니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가요금]\n- 만 5세이상~성인 10,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n\n[개별바베큐]\n[전 객실 개별바베큐]\n- 이용금액 : 20,000원 (1박기준/현장결제)\n- 제공품목 : 숯+그릴+바베큐통+장갑+집게+가위\n- 준비시간 : 입실시 ~ 23시\n- 운영시간 : 입실시 ~ 23시\n※ 숯 , 그릴, 버너 개인지참 불가\n※ 시간 관계없이 직접 토치 사용하여 이용\n\n[공용수영장]\n[야외 공용수영장]\n- 운영기간 : 6월25일~9월13일\n- 운영시간 : 10:00~18:00 (연박시에만 오전 10시부터 가능)\n- 이용복장 : 면티 착용 가능\n※ 일반 수영장, 애견수영장 2개 운영\n※ 일반 수영장에 반려견 입수 불가\n\n※ 수영장 이용수칙\n- 수영 전 준비운동을 충분히 하고 이용해 주시기 바랍니다.\n- 다이빙은 절대 금지합니다. (※이용객의 부주의로 인한 사고에 대해서는 책임지지 않습니다.)\n- 유아 및 어린이는 반드시 보호자 동행 요망(유아와 어린이는 구명조끼를 반드시 착용해 주세요.)\n- 주변 바닥이 미끄러울 수 있으니 주의가 필요하며 유아 및 어린이 단독 출입을 제한합니다.\n- 물놀이는 응급사고의 위험이 있으므로, 수영장은 혼자 이용할 수 없습니다.\n- 수영장 내 음식물 반입 및 음주, 담배를 절대 금합니다.\n\n[애견동반]\n[전 객실 애견동반가능]\n- 최대마리수 : 603,604 2마리 / 601, 605, 606, 607 3마리\n- 최대 kg수 : ~15kg 미만\n- 요금 : 1마리 무료입실 / 추가 1마리당 20,000원(1박기준/현장결제)\n※ 최대마리수 초과시 사전문의필수\n\n[부대시설]\n[애견운동장]\n- 반려견이 자유롭게 뛰어놀 수 있는 인조잔디\n\n[족구장]\n- 족구장 보유\n\n[편의 및 주변 시설]\n[편의시설]\n- 전 객실 Wi-Fi 이용 가능\n- 펜션 내 주차공간\n\n[주변관광지]\n- 매미성\n- 거제관광모노레일\n- 유호리전망대\n- 거제저도유람선\n- 몽돌해변\n\n[교통편]\n입실 전 거제북로 2738-2 도로변에 주차하시고.\n왼쪽 첫번째 핑스 안내실로 찾아오세요",
     "reservationGuide": "[펜션 이용 안내 사항]\n- 전 객실 절대 금연입니다.\n- 미성년자는 보호자 동반 없이 이용하실 수 없습니다.\n- 다른 이용객에게 피해를 줄 수 있는 무분별한 오락, 음주, 고성방가는 삼가주시기 바랍니다.\n- 객실 및 주변 시설 이용 시 시설물의 훼손, 분실에 대한 책임은 투숙객에게 있으며, 손해배상의 책임을 질 수 있습니다.\n- 음식물 및 기타 쓰레기는 꼭 분리수거해 주시기 바랍니다.\n- 실내에서 고기, 생선 등 냄새가 심한 음식은 조리를 금지합니다.\n- 애견 운동장에서 바비큐 시 불꽃놀이 불멍은 금지입니다.",
     "province": "경상남도",
     "city": "거제시",
@@ -191,6 +191,38 @@
             "id": "a2288bbd-1103-4595-9c6b-7bd46e1ebedd",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a53f2f81-26e4-4c43-ae1c-c3569b40c4e1/main/1781596980157-cxhsiaeesr.jpg",
             "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "f4102696-e8a5-4f49-b76b-61b6b4e41263",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a53f2f81-26e4-4c43-ae1c-c3569b40c4e1/main/1783671004527-6znh9rz8pb.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "02b3ffb7-0c02-4c96-8ae7-2de0414daf7a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a53f2f81-26e4-4c43-ae1c-c3569b40c4e1/main/1783671003904-cnfcnxr8ct.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "6d0e3960-ec5d-444e-a92d-1a71371bc22f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a53f2f81-26e4-4c43-ae1c-c3569b40c4e1/main/1783671004517-p5vatffqd6.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2a15eba0-5570-430a-aae8-2c1da989771c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a53f2f81-26e4-4c43-ae1c-c3569b40c4e1/main/1783671003904-970flyvj3i.webp",
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -388,7 +420,7 @@
           {
             "id": "980f3241-c3bc-48a1-8975-75d1f8d78055",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/wkTM5VbKQLXA.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -398,7 +430,7 @@
           {
             "id": "34b336ca-0ded-4b7d-94a0-15ff54c723ad",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/YaDXbW2P8CId.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -406,7 +438,7 @@
           {
             "id": "0bccf3b4-68a0-4f0b-b0b5-1b084bff0e34",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/f6I05oW9lTxQ.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -414,7 +446,7 @@
           {
             "id": "a30a6f82-b80c-4c67-9ed9-dc6b042bdb9d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/VO8pAiJyIrnR.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -422,7 +454,7 @@
           {
             "id": "8f8d330b-492f-4d67-b230-eefd8f8f853b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/eMxlpZ3Dh1cY.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -430,7 +462,7 @@
           {
             "id": "a8e3fd9a-e525-432d-8275-57d339dac615",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/n3C5G6XRztc2.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -438,7 +470,7 @@
           {
             "id": "f24d2cdf-29f7-48b0-848f-cde612696f69",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/J2jWNs7u6O3Q.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -446,7 +478,7 @@
           {
             "id": "30138ae2-ab0d-4c7c-9879-31bf3f7c3162",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/WC3Ogw58avB2.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -454,7 +486,7 @@
           {
             "id": "3bf72b8b-9f5b-429e-8cfe-ce68a29a2d68",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/zdGSNWc2oxsJ.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1479,7 +1511,9 @@
     "seo": {
       "title": "거제 이리온 애견펜션",
       "description": "거제 바다 가까이 위치한 애견동반·애견운동장 완비 힐링 숙소",
-      "keywords": "거제펜션,거제숙소,거제이리온펜션,거제애견펜션,거제애견숙소"
+      "keywords": "거제펜션,거제숙소,거제이리온펜션,거제애견펜션,거제애견숙소",
+      "naverSiteVerification": null,
+      "googleSiteVerification": null
     },
     "socialLinks": {
       "facebook": null,
