@@ -78,7 +78,9 @@ class LayoutMapMapper extends BaseDataMapper {
 
         itemsToRender.forEach((imageData) => {
             const item = document.createElement('div');
-            item.className = 'layout-map-item';
+            // 동적 생성 항목은 스크롤 옵저버(페이지 로드 1초 후 1회 등록)에 잡히지 않으므로
+            // visible을 바로 부여 (nearby-attractions-mapper와 동일 방식, 프리뷰 재렌더링 시 투명 상태로 남는 문제 방지)
+            item.className = 'layout-map-item visible';
 
             const img = document.createElement('img');
             img.className = 'layout-map-image';
@@ -93,12 +95,16 @@ class LayoutMapMapper extends BaseDataMapper {
                 img.classList.add('empty-image-placeholder');
             }
 
-            const description = document.createElement('p');
-            description.className = 'layout-map-image-description';
-            description.textContent = imageData?.description || '';
-
             item.appendChild(img);
-            item.appendChild(description);
+
+            // 설명 텍스트가 있을 때만 설명 영역 노출 (빈값이면 미노출)
+            const descriptionText = this.sanitizeText(imageData?.description, '');
+            if (descriptionText) {
+                const description = document.createElement('p');
+                description.className = 'layout-map-image-description';
+                description.textContent = descriptionText;
+                item.appendChild(description);
+            }
 
             container.appendChild(item);
         });
