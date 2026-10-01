@@ -638,10 +638,7 @@ class PreviewHandler {
      * 섹션별 업데이트 처리 (새로운 구조)
      */
     handleSectionUpdate(messageData) {
-        const { page, section } = messageData;
-        // 다른 업데이트 경로(INITIAL/UPDATE/PROPERTY_CHANGE)와 동일하게 스네이크 → 카멜 케이스 변환
-        // (is_selected 등이 그대로 들어오면 isSelected 필터에 걸려 이미지가 사라지는 문제 방지)
-        const data = this.convertData(messageData.data);
+        const { page, section, data } = messageData;
 
         // logo 섹션 특별 처리 (모든 페이지 공통)
         if (section === 'logo') {
@@ -677,11 +674,6 @@ class PreviewHandler {
 
         // 섹션별 업데이트 실행
         this.updateSpecificSection(page, section);
-
-        // enabled 토글 등 반영: 헤더 About 메뉴(주변 관광지/배치도) 노출 상태 재매핑
-        if ((page === 'nearbyAttractions' || page === 'layoutMap') && window.HeaderFooterMapper) {
-            this.createMapper(HeaderFooterMapper).mapAboutMenuItems();
-        }
 
         // 부모 창에 업데이트 완료 신호
         this.notifyRenderComplete('SECTION_UPDATE_COMPLETE');
