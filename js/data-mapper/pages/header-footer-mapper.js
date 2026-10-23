@@ -453,6 +453,29 @@ class HeaderFooterMapper extends BaseDataMapper {
     }
 
     /**
+     * Footer 농어촌민박사업자 이미지 매핑 (customFields.footer.ruralStayMark)
+     * url 이 있을 때만 노출하고, 없으면 숨긴다. 프리뷰는 같은 페이지에서 다시 매핑하므로
+     * 매번 표시 상태를 되돌린다.
+     */
+    mapFooterRuralStayMark() {
+        const footer = this.safeGet(this.data, 'homepage.customFields.footer') || {};
+        const mark = footer.ruralStayMark;
+        const markUrl = mark && mark.url ? String(mark.url) : '';
+
+        document.querySelectorAll('[data-footer-rural-stay-mark-wrap]').forEach(wrap => {
+            wrap.style.display = markUrl ? '' : 'none';
+        });
+        document.querySelectorAll('[data-footer-rural-stay-mark]').forEach(img => {
+            if (!markUrl) {
+                img.removeAttribute('src');
+                return;
+            }
+            img.src = markUrl;
+            img.alt = (mark.description && String(mark.description).trim()) || '농어촌민박사업자';
+        });
+    }
+
+    /**
      * Footer 사업자 정보 매핑
      */
     mapFooterInfo() {
@@ -611,6 +634,7 @@ class HeaderFooterMapper extends BaseDataMapper {
 
         // Footer 매핑
         this.mapFooterLogo();
+        this.mapFooterRuralStayMark();
         this.mapFooterInfo();
         this.mapSocialLinks();
 
